@@ -1,6 +1,4 @@
-# Welcome to the Home of
-# Catalyst Elemental
-# Software Engineering
+# Catalyst Elemental Software Engineering
 ## Hi there 👋
 
 Catalyst Elemental LLC ('Catel') exists as a privately chartered company under the ownership of Catalyst Foundation LP with the threefold mission:
